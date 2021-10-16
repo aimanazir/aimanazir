@@ -49,9 +49,9 @@
 <a href="https://www.scipy.org/"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
 </p>
 
-###🤝🏻Connect with me
+### 🤝🏻Connect with me
+  
 <p>
 <a href= "mailto:ahmadaiman.nazir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/aiman.nazir/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
 </p>
