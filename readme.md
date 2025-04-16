@@ -1,11 +1,10 @@
 ## Hi there, I'm Ahmad Aiman <a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"></a>
 
 ### 👨🏻‍💻 Facts about Me
-- 🎓Fresh Graduate in Bsc of Physics at [Universiti Malaya](https://www.um.edu.my/)
+- 🎓 Graduate in Bsc of Physics at [Universiti Malaya](https://www.um.edu.my/)
 - 🧑‍🎓 Strong fundamental knowledge especially in laws of physics and theories
 - ✨ Interested in both theoretical and application of physics in daily life
 - 💡 Passionate and love to explore data science and analysis with Python language
-- 🗠 Currently in love with stocks market
 - 📖 Willing to learn the new knowledge or skills
 
 >*My motivation qoute*: _"Everyday is self improvement and always keep learning"_
